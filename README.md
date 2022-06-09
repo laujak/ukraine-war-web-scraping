@@ -1,7 +1,7 @@
 # ukraine-war-web-scraping
 Scrape russian army losses in Ukraine War from Ukraine army news page: https://armyinform.com.ua/
 
-## article example
+## article image example
 ![alt text](https://armyinform.com.ua/wp-content/uploads/2022/06/russian_losses_09_june-scaled.jpg)
 
 ## csv file output example
